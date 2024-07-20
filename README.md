@@ -1,2 +1,2 @@
 # DBT Transforms
-Repo dedicated to transforming data and loading back into Snowflake for further analysis.
+Sample DBT repo to show off interacting with the output of a Data Sync done with Klaviyo's CDP offering.  Data source is Google BigQuery.
