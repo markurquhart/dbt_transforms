@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: klaviyo
+    database: proj-cdp-demo
+    schema: it_shopify
+    tables:
+      - name: klaviyo_profile
+      - name: klaviyo_event
